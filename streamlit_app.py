@@ -34,7 +34,7 @@ pg = st.navigation(
 
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
-st.sidebar.markdown("Made with ❤️ by [Sven](https://youtube.com/@codingisfun)")
+st.sidebar.markdown("Made with ❤️ by [Mario]")
 
 
 # --- RUN NAVIGATION ---
